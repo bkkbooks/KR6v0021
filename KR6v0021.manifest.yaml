@@ -1,0 +1,50 @@
+canonical_identifier: bkk:krp/KR6v0021/v1
+canonical_location: https://kanripo.org/bkk/KR6v0021/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 大般涅槃經佛為摩耶夫人說偈品經
+  identifiers:
+    alt_id:
+    - W01n0015d
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/ZW/ZW01/ZW01n0015d.xml
+    old_id: ZW01n0015d
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0021_000.yaml, hash: 'sha256:bf6b3edc9dae65de77bf777b2152f0ea4e1c94b2560568ca89cfd2ddc6bb1b3d'}
+  - {seq: 1, filename: KR6v0021_001.yaml, hash: 'sha256:737f0d9c7eae664ef09ee568fd1cd3dd2104cb78a913450132f6e468a2f2b218'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0021_000.markers.yaml, hash: 'sha256:b7b6e069593b980c4cbe0b63a1d1ae078b82765c46109c8381d4d9616c531b22'}
+  - {seq: 1, role: markers, filename: assets/KR6v0021_001.markers.yaml, hash: 'sha256:d1f89faae10f250857636d9076e2ad00f5e05ee2ecc99c486842ac5eb6ceccfb'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0021_ZW_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 錄文四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0021_ZW_001-juan-start
+    span:
+    - body
+    - 0
+    - 566
+  label: 大般涅槃經佛為摩耶夫人說偈品經
+  type: juan
+  level: 1
+hash: sha256:cb6c7cd3df2aaecaff62409c5e36882728746bc69fc2f59d27e03a19f3bec4ac
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+editions:
+- short: ZW
