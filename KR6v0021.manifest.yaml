@@ -16,11 +16,11 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR6v0021_000.yaml, hash: 'sha256:bf6b3edc9dae65de77bf777b2152f0ea4e1c94b2560568ca89cfd2ddc6bb1b3d'}
-  - {seq: 1, filename: KR6v0021_001.yaml, hash: 'sha256:737f0d9c7eae664ef09ee568fd1cd3dd2104cb78a913450132f6e468a2f2b218'}
+  - {seq: 0, filename: KR6v0021_000.yaml, hash: 'sha256:9cb24970da02a0b53e6d90b9295bc387cd7894ed3f4cedf14747c701343e16a3'}
+  - {seq: 1, filename: KR6v0021_001.yaml, hash: 'sha256:7d6a287b09164478caacb8d94b8573a4fb8f204bf972de7ffa2f6ab4a69eee99'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0021_000.markers.yaml, hash: 'sha256:b7b6e069593b980c4cbe0b63a1d1ae078b82765c46109c8381d4d9616c531b22'}
-  - {seq: 1, role: markers, filename: assets/KR6v0021_001.markers.yaml, hash: 'sha256:d1f89faae10f250857636d9076e2ad00f5e05ee2ecc99c486842ac5eb6ceccfb'}
+  - {seq: 0, role: markers, filename: assets/KR6v0021_000.markers.yaml, hash: 'sha256:8acce67ff2e4972eb38e7f20bfa2f42511986ef4acd20c9f7e206f2030d235d6'}
+  - {seq: 1, role: markers, filename: assets/KR6v0021_001.markers.yaml, hash: 'sha256:f8e2407c1bb2420d0cd5614f03cf2b03f78cdfe9e8b518ea7e5b811035cc7e0e'}
 table_of_contents:
 - ref:
     seq: 0
@@ -42,9 +42,6 @@ table_of_contents:
   label: 大般涅槃經佛為摩耶夫人說偈品經
   type: juan
   level: 1
-hash: sha256:cb6c7cd3df2aaecaff62409c5e36882728746bc69fc2f59d27e03a19f3bec4ac
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:3eefc326bf2455d9226902aa48e4aab8f4226334c067ea7599eb1f886da279b5
 editions:
 - short: ZW
