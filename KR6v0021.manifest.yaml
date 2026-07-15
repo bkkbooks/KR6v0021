@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6v0021/v1
 canonical_location: https://kanripo.org/bkk/KR6v0021/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 大般涅槃經佛為摩耶夫人說偈品經
   identifiers:
@@ -16,11 +16,11 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR6v0021_000.yaml, hash: 'sha256:9cb24970da02a0b53e6d90b9295bc387cd7894ed3f4cedf14747c701343e16a3'}
-  - {seq: 1, filename: KR6v0021_001.yaml, hash: 'sha256:7d6a287b09164478caacb8d94b8573a4fb8f204bf972de7ffa2f6ab4a69eee99'}
+  - {seq: 0, filename: KR6v0021_000.yaml, hash: 'sha256:bf6b3edc9dae65de77bf777b2152f0ea4e1c94b2560568ca89cfd2ddc6bb1b3d'}
+  - {seq: 1, filename: KR6v0021_001.yaml, hash: 'sha256:4efa8039edc9229d54031473bded0283882673830b1916e99d12371d78950355'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0021_000.markers.yaml, hash: 'sha256:8acce67ff2e4972eb38e7f20bfa2f42511986ef4acd20c9f7e206f2030d235d6'}
-  - {seq: 1, role: markers, filename: assets/KR6v0021_001.markers.yaml, hash: 'sha256:f8e2407c1bb2420d0cd5614f03cf2b03f78cdfe9e8b518ea7e5b811035cc7e0e'}
+  - {seq: 0, role: markers, filename: assets/KR6v0021_000.markers.yaml, hash: 'sha256:ddfb3650c76e50febaf4d6b7e31de18d2b756565bb37973a1f502ae970925d12'}
+  - {seq: 1, role: markers, filename: assets/KR6v0021_001.markers.yaml, hash: 'sha256:f13c1dab405d51fc24bd804ef7862988de0fcc6e10f0ccca605cc71bde7ab5e1'}
 table_of_contents:
 - ref:
     seq: 0
@@ -42,6 +42,9 @@ table_of_contents:
   label: 大般涅槃經佛為摩耶夫人說偈品經
   type: juan
   level: 1
-hash: sha256:3eefc326bf2455d9226902aa48e4aab8f4226334c067ea7599eb1f886da279b5
+hash: sha256:9fc33baebd077d926104259566b0998ff476565f98d9f66e1671ac9943463690
 editions:
 - short: ZW
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
