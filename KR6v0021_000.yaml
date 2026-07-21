@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR6v0021/zw/v1/juan/0
 seq: 0
-front:
+body:
   text: 録文四
   hash: sha256:df3ccf47fa9bd188132a0a9e220709f7c3c6c7455eecfa1e3b1e07cefdc8fa68
   markers:
   - {type: 其他, offset: 0, content: 錄文四, id: KR6v0021_ZW_000-mulu-1, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 大般涅槃經佛為摩耶夫人說偈品經
   edition:
@@ -16,4 +13,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/ZW/ZW01/ZW01n0015d.xml
     old_id: ZW01n0015d
-hash: sha256:bf6b3edc9dae65de77bf777b2152f0ea4e1c94b2560568ca89cfd2ddc6bb1b3d
+hash: sha256:502f292fccb729efd1718a4e45ff8a1df58622185a7d34c5b9e9ef73de0c8839

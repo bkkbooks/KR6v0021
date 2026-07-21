@@ -16,17 +16,17 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR6v0021_000.yaml, hash: 'sha256:bf6b3edc9dae65de77bf777b2152f0ea4e1c94b2560568ca89cfd2ddc6bb1b3d'}
+  - {seq: 0, filename: KR6v0021_000.yaml, hash: 'sha256:502f292fccb729efd1718a4e45ff8a1df58622185a7d34c5b9e9ef73de0c8839'}
   - {seq: 1, filename: KR6v0021_001.yaml, hash: 'sha256:4efa8039edc9229d54031473bded0283882673830b1916e99d12371d78950355'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0021_000.markers.yaml, hash: 'sha256:ddfb3650c76e50febaf4d6b7e31de18d2b756565bb37973a1f502ae970925d12'}
+  - {seq: 0, role: markers, filename: assets/KR6v0021_000.markers.yaml, hash: 'sha256:b9deb691b789485f57d4d9ba7314f5ea1ede4432573fc3d5c13479570a22ee81'}
   - {seq: 1, role: markers, filename: assets/KR6v0021_001.markers.yaml, hash: 'sha256:f13c1dab405d51fc24bd804ef7862988de0fcc6e10f0ccca605cc71bde7ab5e1'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6v0021_ZW_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 錄文四
@@ -42,7 +42,7 @@ table_of_contents:
   label: 大般涅槃經佛為摩耶夫人說偈品經
   type: juan
   level: 1
-hash: sha256:9fc33baebd077d926104259566b0998ff476565f98d9f66e1671ac9943463690
+hash: sha256:94b34bbf2e8a0df6ac4b45394155fe550fb1fbd371d909a04ba3b7eda712107f
 editions:
 - short: ZW
 mappings:
